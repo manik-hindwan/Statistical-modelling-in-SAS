@@ -1,0 +1,9 @@
+%let homefolder=~/EST142/data;
+
+libname STAT1 "&homefolder";
+
+options fmtsearch=(stat1.myfmts);
+
+proc format library=stat1.myfmts;
+
+run;
