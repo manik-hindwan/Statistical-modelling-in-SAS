@@ -1,3 +1,2 @@
-# BASE SAS & SAS/STAT
-This contains all the script files that I used in my practice. 
-It includes all the basic procs and the data step used in SAS BASE as well as the procs from SAS/STAT
+# SAS - BASE AND ADVANCED & SAS/STAT
+This contains some of the script files and the projects that I used in my practice as well as in my curriculum. 
